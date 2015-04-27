@@ -1,2 +1,4 @@
 Con cambios
 O sea que sobre el master puedo ir haciendo versionado simple?
+
+PArece que sí, ahora lo que quiero averiguar es cómo recuperar una determinada versión en el tiempo tanto de un solo archivo como de todo el proyecto. entiendo que los branches desaparecen cuanmdo se fusionan al master. En este caso, sólo hay master. ¿Cómo recuperar una versión en el tiempo (tag) del master?
